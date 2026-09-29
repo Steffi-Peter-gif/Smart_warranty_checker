@@ -1,0 +1,22 @@
+[
+    {
+        "name": "laptop",
+        "brand": "hp",
+        "purchase_date": "28-09-2026",
+        "price": "55000",
+        "warranty": 2,
+        "expiry": "28-09-2028",
+        "status": "ACTIVE",
+        "service_details": "No service recorded."
+    },
+    {
+        "name": "mobile",
+        "brand": "samsung",
+        "purchase_date": "29-09-2026",
+        "price": "25000",
+        "warranty": 2,
+        "expiry": "29-09-2028",
+        "status": "ACTIVE",
+        "service_details": "screen replaced"
+    }
+]
